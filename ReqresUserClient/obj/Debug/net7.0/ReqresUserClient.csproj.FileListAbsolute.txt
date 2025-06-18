@@ -1,0 +1,12 @@
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/bin/Debug/net7.0/ReqresUserClient.deps.json
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/bin/Debug/net7.0/ReqresUserClient.dll
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/bin/Debug/net7.0/ReqresUserClient.pdb
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.csproj.AssemblyReference.cache
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.AssemblyInfoInputs.cache
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.AssemblyInfo.cs
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.csproj.CoreCompileInputs.cache
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.dll
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/refint/ReqresUserClient.dll
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ReqresUserClient.pdb
+/Users/darkhorseadmin/Projects/RequestUserClient.ConsoleApp/ReqresUserClient/obj/Debug/net7.0/ref/ReqresUserClient.dll

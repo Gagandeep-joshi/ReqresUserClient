@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{31A7A41A-B672-4EBA-83EB-1D6AA990CFD4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RequestUserClient.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RequestUserClient.ConsoleApp/Service/ExternalUserService.cs">
+    <Files>
+      <File FileName="RequestUserClient.ConsoleApp/Program.cs" Line="35" Column="1" />
+      <File FileName="ReqresUserClient/Class1.cs" />
+      <File FileName="RequestUserClient.ConsoleApp/Models/User.cs" Line="9" Column="43" />
+      <File FileName="RequestUserClient.ConsoleApp/Models/UserDto.cs" Line="3" Column="21" />
+      <File FileName="RequestUserClient.ConsoleApp/Models/ApiUserListResponse.cs" Line="22" Column="1" />
+      <File FileName="RequestUserClient.ConsoleApp/Models/ApiSingleUserResponse.cs" Line="8" Column="1" />
+      <File FileName="RequestUserClient.ConsoleApp/Clients/ReqresApiClient.cs" Line="72" Column="1" />
+      <File FileName="RequestUserClient.ConsoleApp/Service/ExternalUserService.cs" Line="43" Column="1" />
+      <File FileName="RequestUserClient.ConsoleApp/RequestUserClient.ConsoleApp.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RequestUserClient.ConsoleApp" expanded="True">
+            <Node name="ReqresUserClient" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="RequestUserClient.ConsoleApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Clients" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="ExternalUserService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
